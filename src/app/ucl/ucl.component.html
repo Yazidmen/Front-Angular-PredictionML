@@ -1,0 +1,45 @@
+<!-- <form [formGroup]="form" (submit)="submit()">
+   
+    <h1 class="h3 mb-3 fw-normal" style="text-align: center;">Predict Now</h1>
+
+      <input formControlName="homeTeamName" type="text" class="form-control" id="floatingInput" placeholder="Home Team">
+     
+      <input formControlName="awayTeamName" type="text" class="form-control" id="floatingPassword" placeholder="Away Team">
+     
+    <button class="w-100 btn btn-lg btn-primary" type="submit">Predict</button>
+
+  </form> -->
+
+
+<div class="main">
+  <input type="checkbox" id="chk" aria-hidden="true">
+
+  <div class="signup p-2">
+    <form [formGroup]="form" (submit)="submit()">
+      <label for="chk" aria-hidden="true"></label>
+      <br />
+      <br />
+      <br />
+      <!-- <input formControlName="homeTeamName" type="text" name="txt" placeholder="Home Team" required="" class="form-control"> -->
+      <select formControlName="homeTeamName" type="text" name="txt" required=""
+        class="form-control">
+        <option *ngFor="let team of Teams" [value]="team">
+          {{team}}
+        </option>
+      </select>
+      <br />
+      <!--<input formControlName="awayTeamName" type="text" name="email" placeholder="Away Team" required="" class="form-control">-->
+      <select formControlName="awayTeamName" type="text" name="email" placeholder="Away Team" required=""
+        class="form-control">
+        
+        <option *ngFor="let team of Teams" [value]="team">
+
+          {{team}}
+        </option>
+      </select>
+      <button type="submit">Predict</button>
+      <label for="chk" aria-hidden="true">Predict Now</label>
+    </form>
+
+  </div>
+</div>
