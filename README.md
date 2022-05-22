@@ -13,12 +13,19 @@
 
 <h2>GUI :</h2>
 <p>First Page</p>
+
 ![App](https://user-images.githubusercontent.com/81382178/169706110-3d527083-1768-4cf6-a58c-035fc5133b49.png)
+
 <p>We select the Home Team Name & Away Team Name</p>
+
 ![App 2](https://user-images.githubusercontent.com/81382178/169706146-765f02b4-c62e-48a5-9467-04d15b423d09.png)
+
 <p>For example : We choose here Paris Saint Germain VS Juventus and then we click <strong>predict</strong></p>
+
 ![App 3](https://user-images.githubusercontent.com/81382178/169706164-5abb72ed-aaad-41e9-b9e8-75aa302192df.png)
+
 <p>Results :</p>
+
 ![App 4](https://user-images.githubusercontent.com/81382178/169706183-8281faa2-1ec8-424a-9083-a1625300099e.png)
 
 
