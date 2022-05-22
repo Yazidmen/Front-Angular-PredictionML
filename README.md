@@ -3,7 +3,7 @@
 <h2>Display a ML Model Predections in GUI using Angular 13 (Fast API as a Backend API) </h2>
 
 <h3>For more details about this project:</h3>
-<p>Here's the links of the Frontend Repository & the notebook of our model </p>
+<p>Here's the links of the Backend Repository & the notebook of our model </p>
 <p><strong>->The ML Model  :</strong> https://github.com/medsaad2000/Football-Match-Probability-Prediction</p>
 <p><strong>->Backend Repository (FastAPI) :</strong> https://github.com/medsaad2000/FastAPI-PredictionML </p>
 <h3>Frontend :</h3>
