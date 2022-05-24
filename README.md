@@ -4,8 +4,8 @@
 
 <h3>For more details about this project:</h3>
 <p>Here's the links of the Backend Repository & the notebook of our model </p>
-<p><strong>->The ML Model  :</strong> https://github.com/medsaad2000/Football-Match-Probability-Prediction</p>
-<p><strong>->Backend Repository (FastAPI) :</strong> https://github.com/medsaad2000/FastAPI-PredictionML </p>
+<p><strong>->The ML Model  :</strong> https://github.com/Yazidmen/Football-Match-Probability-Prediction</p>
+<p><strong>->Backend Repository (FastAPI) :</strong> https://github.com/Yazidmen/FastAPI-PredictionML/blob/master/README.md </p>
 <h3>Frontend :</h3>
 <p>Technologie used : Angular 13 </p>
 
